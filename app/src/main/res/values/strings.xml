@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Tusks</string>
+    <string name="plus_1">+1</string>
+    <string name="minus_1">-1</string>
+    <string name="main_menu">Main menu</string>
+    <string name="tusk_one">Tusk One</string>
+    <string name="tusk_four">Tusk four</string>
+    <string name="tusk_three">Tusk three</string>
+    <string name="tusk_two">Tusk two</string>
+    <string name="_0">0</string>
 </resources>
